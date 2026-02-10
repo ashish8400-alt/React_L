@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-      <h1>chai aur react ashish</h1>
+      <h1>chai aur react ashish nishant </h1>
       <h2>Counter value: {counter}</h2>
 
       <button
