@@ -15,10 +15,8 @@ function App() {
     }
     setCounter(counter )
   }
-
   const removeValue = () =>{
-    
-
+  
     setCounter(counter -1 )
   }
 
@@ -26,7 +24,7 @@ function App() {
 
   return (
     <>
-      <h1>chai aur react</h1>
+      <h1>chai aur react ashish</h1>
       <h2>Counter value: {counter}</h2>
 
       <button
